@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T21:51:44.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="hJ1XAPY-9OStP1OQMZQv" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T21:57:53.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S1Dzjp1-kxUCojVbw0Ck" version="24.6.4" type="github">
   <diagram name="Page-1" id="iKAXJZAf1PLXWyzWDuRM">
-    <mxGraphModel>
+    <mxGraphModel dx="3500" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0VwKaWO4Tse9whwEBI7w-1" value="Scraped Dataset from TripAdvisor Reviews" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0VwKaWO4Tse9whwEBI7w-2" value="Scraped Dataset from Yelp Reviews" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0VwKaWO4Tse9whwEBI7w-3" value="Scraped Dataset from Google Maps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="230" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
